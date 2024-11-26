@@ -8,5 +8,4 @@ created: 1727902333245
 
 ## notes
 
-- (example projects from audience)
-- (experience from audience, "how did that go?")
+- one and done for most
