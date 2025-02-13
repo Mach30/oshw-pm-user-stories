@@ -2,6 +2,8 @@
 
 User stories captured for [How do you share your Open-Source Hardware project](https://pretalx.seagl.org/2024/talk/WKPDWZ/) workshop.
 
+[Rendered view of the OSHW user stories collected from workshop](https://mach30.github.io/oshw-pm-user-stories)
+
 ## Pre-requisites
 
 - [VS Code](https://code.visualstudio.com/download)
