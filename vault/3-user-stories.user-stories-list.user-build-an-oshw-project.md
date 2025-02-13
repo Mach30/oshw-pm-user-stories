@@ -2,7 +2,7 @@
 id: oc31cidp5sb697ncgcwtzrx
 title: User Build an OSHW Project
 desc: ''
-updated: 1732312095224
+updated: 1739482437468
 created: 1729629196459
 ---
 
@@ -12,5 +12,5 @@ so that I can [[3-user-stories.rationales-list.reproduce-the-oshw-project]]
 
 related to [[2-a-better-way.1-core-capabilities]]: [[2-a-better-way.1-core-capabilities.1-oshw-definition]]
 
-## user stories
+## notes
 - build using alternative components for (end-of-life) availability

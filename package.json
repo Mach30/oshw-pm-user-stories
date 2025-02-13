@@ -1,0 +1,16 @@
+{
+  "name": "oshw-pm-user-stories",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dendron-cli": "dendron-cli"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC-BY-4.0",
+  "description": "",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.106.0"
+  }
+}
